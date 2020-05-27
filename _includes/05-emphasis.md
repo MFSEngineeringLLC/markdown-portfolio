@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__I am awesome since I can write in bold!__ <br>
+_I can also write in italics!_
